@@ -1,0 +1,55 @@
+body {
+    background: #161616 !important;
+    color: #f7f7f7 !important;
+}
+
+.navbar a {
+    color: #f7f7f7 !important;
+}
+
+.carousel-caption p,
+.carousel-caption h5 {
+    text-shadow: 2px 2px 2px black;
+}
+
+.card {
+    margin: 0 auto;
+    /* Added */
+    float: none;
+    /* Added */
+    margin-bottom: 10px;
+    /* Added */
+    background: #121212 !important;
+}
+
+.card img {
+    width: 286px;
+    height: 232px;
+}
+
+.card .btn {
+    background: rgb(237, 20, 91) !important;
+    border: 1px solid rgb(237, 20, 91) !important;
+}
+
+.modal-title {
+    color: #161616;
+}
+
+.modal-body img {
+    margin-bottom: 40px;
+}
+
+.intro {
+    border: 2px solid rgb(237, 20, 91);
+    margin: 5px !important;
+}
+
+.intro p:nth-child(1) {
+    margin-top: 30px;
+}
+
+.intro a {
+    color: rgb(237, 20, 91);
+    text-decoration: none;
+}
